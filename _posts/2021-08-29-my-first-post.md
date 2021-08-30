@@ -1,6 +1,6 @@
 ---
 title:  "Chickegg 블로그 탄생!"
-excerpt: "앞으로 나의 커리어의 성장과 함께할 블로그 탄생. github 블로그는 공부가 필요하다.
+excerpt: "앞으로 나의 커리어의 성장과 함께할 블로그 탄생. github 블로그는 공부가 필요하다."
 
 categories:
   - Blog
