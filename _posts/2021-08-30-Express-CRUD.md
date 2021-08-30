@@ -37,7 +37,9 @@ __C__ reate, __R__ ead, __U__ pdate, __D__ elete (공통된 핵심기능)
             title,
         });
         res.send("값 추가 완료.")
-    }  
+    }
+    
+      
 ### 1-2 __req.body를 이용하는 방법__  
 __Express__ 의 __bodyparser__ 를 이용하면 req.body를 사용할 수 있다.  
 여기서 body란 data의 본문 전체라고 할 수 있다.
