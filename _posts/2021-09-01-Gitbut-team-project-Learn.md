@@ -1,5 +1,5 @@
 ---
-title:  "[Git hub] 협업 방법
+title:  "[Git hub] 협업 방법"
 excerpt: "Git hub로 협업하기 위한 방법을 정리한 POST"
 
 categories:
